@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "API_KEY"
 
 messages = [{"role": "system", "content": "You are an AI like JARVIS"}]
 
